@@ -1,0 +1,32 @@
+.form-group {
+    margin: 5px;
+
+}
+.cv-container {
+    /* background-color: green; */
+    width: 80%;
+    margin: auto;
+}
+
+.education-input-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.education-form-group{
+    /* border: 2px solid yellow; */
+    width: 21%;
+    margin: 5px;
+}
+
+
+.experiance-input-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.experiance-form-group{
+    /* border: 2px solid yellow; */
+    width: 21%;
+    margin: 5px;
+}
